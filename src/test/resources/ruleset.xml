@@ -5,8 +5,8 @@
          xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
     <description>Custom ruleset for our project</description>
     <rule
-            name="MessageTypeEnforcer"
-            class="org.example.MessageTypeEnforcer"
+            name="xxxx"
+            class="xxx.MessageTypeEnforcer"
             language="java"
             message="Detected incorrect object type for a topic">
         <description>Enforce correct objects types are created for topics</description>
